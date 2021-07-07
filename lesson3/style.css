@@ -1,0 +1,23 @@
+h1 {font-size: 35px;
+    background-color:cornsilk;
+    text-align: center;
+    width: max-content;
+    margin: auto;
+    padding: 3%;
+    border-radius: 5px;
+}
+
+body {
+    margin-left: 50px;
+    background-color: #eedfa2;
+    border: 3px solid #fff8dc;
+    padding: 30px;
+}
+
+h3 {
+    background-color:cornsilk;
+    text-align:left;
+    width: max-content;
+    padding: 2%;
+    border-radius: 5px;
+}
