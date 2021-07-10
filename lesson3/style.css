@@ -1,5 +1,5 @@
 h1 {font-size: 35px;
-    background-color:cornsilk;
+    background-color:#ffdcde;
     text-align: center;
     width: max-content;
     margin: auto;
@@ -9,13 +9,13 @@ h1 {font-size: 35px;
 
 body {
     margin-left: 50px;
-    background-color: #eedfa2;
-    border: 3px solid #fff8dc;
+    background-color: #ffd2da;
+    border: 5px solid #ffdcde;
     padding: 30px;
 }
 
 h3 {
-    background-color:cornsilk;
+    background-color: #ffdcde;
     text-align:left;
     width: max-content;
     padding: 2%;
